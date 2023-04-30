@@ -9,7 +9,7 @@ R package that implements matrix operations
 
 `matrix.smul`: Multiply a matrix by a scalar
 
-`matrix.add`: Add who matrices
+`matrix.add`: Add two matrices
 
 `matrix.mmul`: Multiply two matrices (really just a front-end for the `%*%` operation, included for completeness)
 

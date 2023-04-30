@@ -5,7 +5,7 @@ R package that implements matrix operations
 
 ## Included functions:
 
-*Matrix operations:*
+**Matrix operations:**
 
 `matrix.smul`: Multiply a matrix by a scalar
 
@@ -15,9 +15,9 @@ R package that implements matrix operations
 
 `matrix.tpos`: Produce the transpose of a matrix
 
-**For more information, see the man page titled `matrix`.**
+*For more information, see the man page titled `matrix`.*
 
-*Row operations:*
+**Row operations:**
 
 `matrix.rsmul`: Multiply a given row of a matrix by a scalar
 
@@ -25,13 +25,13 @@ R package that implements matrix operations
 
 `matrix.rxchg`: Exchange two rows of a matrix
 
-**For more information, see the man page titled `row`.**
+*For more information, see the man page titled `row`.*
 
-*Generative operations:*
+**Generative operations:**
 
 `matrix.i`: Generate an identity matrix of a given size
 
-**For more information, see the man page titled `generative`.**
+*For more information, see the man page titled `generative`.*
 
 ----
 

@@ -1,0 +1,12 @@
+Package: matrix
+Type: Package
+Title: Matrix-Related Operations
+Version: 0.1.0
+Author: Michael Warren
+Maintainer: Michael Warren <acidkicks@protonmail.com>
+Description: Implementations of various linear algebra operations
+    Includes matrix algebra operations, row operations,
+    and functions for generating special matrices.
+License: Michael Warren FSL
+Encoding: UTF-8
+LazyData: true

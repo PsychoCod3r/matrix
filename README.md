@@ -40,3 +40,4 @@ R package that implements matrix operations
 1. Download and open the Zip file.
 2. Change the name of the directory from `matrix-main` to `matrix`.
 3. Copy `matrix` to the directory containing your R packages (this may vary depending on your system).
+4. In the R REPL, type `install.packages("matrix")` to install.
